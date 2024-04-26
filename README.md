@@ -1,6 +1,6 @@
-# Extension function
+# Extension Function
 
-In this task, you need to add a new function, `getSizeMessage(): String,` to the ArrayList class. 
+In this task, you need to add a new function, getSizeMessage(): String, to the ArrayList class. 
 Provide your solution in the `mate.academy.NumbersService` class.
 
 Example of the function invocation:
