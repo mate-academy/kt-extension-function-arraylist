@@ -1,3 +1,5 @@
 package mate.academy
 
-// provide your solution below
+fun ArrayList<*>.getSizeMessage(): String {
+    return "The list contains ${this.size} elements."
+}
