@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.9.22"
+    kotlin("jvm") version "1.8.0"
     application
     id("io.gitlab.arturbosch.detekt") version "1.23.3"
 }
@@ -20,7 +20,7 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(17)
+    jvmToolchain(11)
 }
 
 application {
