@@ -1,5 +1,6 @@
 package mate.academy
 
+import mate.academy.NumbersService.getSizeMessage
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.Assertions.assertEquals
 
