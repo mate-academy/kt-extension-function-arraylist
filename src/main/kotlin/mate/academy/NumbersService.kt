@@ -1,3 +1,5 @@
 package mate.academy
 
-// provide your solution below
+import java.util.ArrayList
+
+fun <E> ArrayList<E>.getSizeMessage(): String = "The list contains ${this.size} elements."
